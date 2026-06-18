@@ -12,11 +12,11 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+14,Male,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+15,Male,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+16,Male,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 17,Female,29,Nurse,6.5,5,40,7,Normal,132/87,80,4000,Sleep Apnea,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+18,Male,29,Doctor,6,6,30,8,Normal,120/80,70,8000,Sleep Apnea,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 19,Female,29,Nurse,6.5,5,40,7,Normal,132/87,80,4000,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
@@ -51,34 +51,34 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+53,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+55,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+56,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+58,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+59,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+61,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+62,Male,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 67,Male,32,Accountant,7.2,8,50,6,Normal,118/76,68,7000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+68,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+75,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+76,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+77,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+78,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+79,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
+80,Male,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
 81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
@@ -148,8 +148,8 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 149,Female,39,Lawyer,6.9,7,50,6,Normal,128/85,75,5500,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-150,Female,39,Accountant,8.0,9,80,3,Normal,115/78,67,7500,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-151,Female,39,Accountant,8.0,9,80,3,Normal,115/78,67,7500,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
+150,Female,39,Accountant,8,9,80,3,Normal,115/78,67,7500,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
+151,Female,39,Accountant,8,9,80,3,Normal,115/78,67,7500,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
@@ -267,7 +267,7 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,None,1,Active but Stressed,Reduce stress | Practice meditation | Improve recovery
-269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+269,Female,49,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
@@ -279,22 +279,22 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
-281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,None,1,Active but Stressed,Reduce stress | Practice meditation | Improve recovery
+281,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,None,1,Active but Stressed,Reduce stress | Practice meditation | Improve recovery
 282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+283,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+284,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+285,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+286,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+287,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+288,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+289,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+291,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+294,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+296,Female,50,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
@@ -302,7 +302,7 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 303,Female,51,Nurse,7.1,7,55,6,Normal,125/82,72,6000,None,2,High Risk Lifestyle,Increase activity | Improve sleep | Reduce stress
-304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+304,Female,51,Nurse,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,1,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,2,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
@@ -351,25 +351,25 @@ Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activit
 350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
+353,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+354,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+355,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+356,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+357,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+358,Female,58,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+359,Female,59,Nurse,8,9,75,3,Overweight,140/95,68,7000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,0,Optimal Lifestyle,Maintain sleep habits | Continue exercise | Maintain stress levels
 361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+365,Female,59,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+366,Female,59,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+368,Female,59,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
-371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
+371,Female,59,Nurse,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
 374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,0,Needs Medical Attention,Consult healthcare professional | Follow prescribed treatment | Monitor sleep patterns regularly | Improve sleep hygiene
