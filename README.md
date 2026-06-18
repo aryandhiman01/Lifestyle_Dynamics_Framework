@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Seaborn-EDA-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-yellow?style=for-the-badge&logo=scikitlearn">
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
